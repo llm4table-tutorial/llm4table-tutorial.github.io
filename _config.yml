@@ -9,9 +9,9 @@ lsi: false
 markdown: kramdown
 
 ### content configuration ###
-title:       "Workshop on Augmented Large Language Models (ALLM)"
-keywords:    "workshop"
-description: "The official website for the Workshop on Augmented Large Language Models (ALLM)"
+title:       "Tutorial on Large Language Models for Tabular Data (LLM4Table)"
+keywords:    "tutorial"
+description: "The official website for the Tutorial on Large Language Models for Tabular Data"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 
