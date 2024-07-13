@@ -1,9 +1,0 @@
-title: "Tutorial: LLM for Tabular Data"
-description: Large Language Models for Tabular Data: Progresses and Future Directions
-  ---
-baseurl: "" # the subpath of your site, e.g. /blog
-
-# Build settings
-markdown: kramdown
-include: ['_pages']
-google_analytics: "G-TNBXJN1Y5L"
