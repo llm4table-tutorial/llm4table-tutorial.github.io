@@ -7,7 +7,7 @@ collection: pages_2022
 
 ## Program Schedule
 Workshop Location: Room South American A, Capital Hilton, Washington, D.C.
-<a href="https://link-for-slides">slides</a>
+<a href="https://drive.google.com/file/d/1iG2kI4jiw1kZmA5yF6-dHAvppu0pJSX0/view?usp=sharing">slides</a>
 <br>
 <br><br>
 Eastern Time
